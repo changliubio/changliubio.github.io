@@ -2,7 +2,7 @@
 title: Chang's Random Notes in Biotech
 email: changliu.ba@gmail.com
 description: >
-  Chang's Random Notes in Biotech
+  Chang's Random Notes
   providing documentation and blog post pages.
 lang: en-US
 
@@ -32,20 +32,21 @@ exclude:
   - README.md
   - vendor
 timezone: Australia/Brisbane
+
 defaults:
 - scope:
     path: _posts
     type: posts
   values:
     layout: post
-    sectionid: blog
+    sectionid: Random Blah Blah
 
 - scope:
     path: _docs
     type: docs
   values:
     layout: docs
-    sectionid: docs
+    sectionid: Annotated Biotechnology
     seo:
       type: "WebPage"
 
