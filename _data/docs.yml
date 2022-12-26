@@ -1,11 +1,12 @@
-- title: Getting Started
+- title: Protein Engineering and Production
   docs:
-  - home
-  - themes
-  - customization
+  - Protein Design
+    -AlphaFold
+  - Expression Hosts
+  - Purification
 
-- title: Examples
+- title: Molecular Biology
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - Cloning
+  - Popular species
+  - To be updated
