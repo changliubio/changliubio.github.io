@@ -39,14 +39,14 @@ defaults:
     type: posts
   values:
     layout: post
-    sectionid: Random Blah Blah
+    sectionid: blog
 
 - scope:
     path: _docs
     type: docs
   values:
     layout: docs
-    sectionid: Annotated Biotechnology
+    sectionid: docs
     seo:
       type: "WebPage"
 
